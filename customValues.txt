@@ -1,0 +1,26 @@
+Minute (Miliseconds)
+1
+Hour (Minute * x) [Do not recommend you touch this]
+60
+Day (Hour * x) [Do not recommend you touch this]
+23
+Number of Tills [Must be at least 0]
+5
+Queue Length [Must be at least 0]
+2
+Shoppers Per Minute [Must be at least 0]
+4
+Basket Size [Must be at least 0]
+10
+Enters Shopping Toggle [TRUE/FALSE]
+true
+Enters Queue Toggle [TRUE/FALSE]
+true
+Enters CheckoutToggle [TRUE/FALSE]
+true
+Leaves Checkout Toggle [TRUE/FALSE]
+true
+Queue Toggle [TRUE/FALSE]
+true
+Checkout Toggle [TRUE/FALSE]
+true
